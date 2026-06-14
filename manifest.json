@@ -1,0 +1,16 @@
+{
+  "id": "com.pnthr.clangd",
+  "name": "Clangd LSP",
+  "mainClass": "com.pnthr.clangd.Clangd",
+  "version": "1.0.0",
+  "description": "C/C++ language server (clangd) support for Xed-Editor",
+  "author": {
+    "displayName": "pnthr",
+    "github": "pnthrr"
+  },
+  "license": "MIT",
+  "tags": ["c", "cpp", "lsp"],
+  "minAppVersion": 87,
+  "maxAppVersion": null,
+  "repository": "https://github.com/pnthrr/xed-clangd"
+}
